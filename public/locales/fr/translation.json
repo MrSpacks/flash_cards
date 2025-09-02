@@ -1,0 +1,71 @@
+{
+  "header": {
+    "addWord": "Ajouter un nouveau mot",
+    "word": "Mot"
+  },
+  "title": {
+    "card": "Vous n'avez pas de mots à apprendre",
+    "card2": "Apprendre des mots"
+  },
+  "label": {
+    "word": "Mot",
+    "Translation": "Traduction"
+  },
+  "button": {
+    "add": "Ajouter un mot",
+    "cancel": "Annuler",
+    "know": "Je sais",
+    "dontKnow": "Je ne sais pas",
+    "remember": "Se souvenir",
+    "enter": "Se connecter",
+    "register": "S'inscrire"
+  },
+  "login": {
+    "title": "Easy Words",
+    "subtitle": "Apprenez les langues facilement",
+    "text": "Avec Easy Words, vous pouvez apprendre de nouveaux mots dans différentes langues. Inscrivez-vous et commencez à apprendre",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "forgot": "Mot de passe oublié",
+    "remember": "Se souvenir de moi"
+  },
+  "register": {
+    "subtitle": "Inscription",
+    "login": "Se connecter",
+    "enter": "Se connecter",
+    "register": "Inscription"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "text": "FlashCards v: ",
+    "text2": "par Sergei Petukhov ",
+    "CorrentTheme": "Thème actuel : ",
+    "toggle": "Changer de thème",
+    "title2": "Contact",
+    "donate": "Faire un don",
+    "title3": "Utilisateur",
+    "logout": "Se déconnecter",
+    "lang": "Langue",
+    "install": "Installer l'application"
+  },
+  "wordList": {
+    "title": "Vos mots",
+    "save": "Enregistrer",
+    "resetCount": "Reinitialiser le compteur"
+  },
+  "Layout": {
+    "words": "Mots",
+    "FlashCards": "Cartes mémoire"
+  },
+  "dictionary": {
+    "title": "Dictionnaire",
+    "placeholder": "Nom du dictionnaire",
+    "add": "Ajouter un dictionnaire",
+    "listTitle": "Liste des dictionnaires",
+    "addDictionary": "Ajouter un dictionnaire",
+    "defaultDictionary": "Dictionnaire par défaut",
+    "confirmDelete": "Voulez-vous vraiment supprimer ce dictionnaire?",
+    "delete": "Supprimer",
+    "noDictionaries": "Vous n'avez aucun dictionnaire"
+  }
+}

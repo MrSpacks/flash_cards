@@ -1,0 +1,71 @@
+{
+  "header": {
+    "addWord": "Додати нове слово",
+    "word": "Слово"
+  },
+  "title": {
+    "card": "У вас немає слів для вивчення",
+    "card2": "Вчити слова"
+  },
+  "label": {
+    "word": "Слово",
+    "Translation": "Переклад"
+  },
+  "button": {
+    "add": "Додати слово",
+    "cancel": "Скасувати",
+    "know": "Я знаю",
+    "dontKnow": "Я не знаю",
+    "remember": "Запам’ятати",
+    "enter": "Увійти",
+    "register": "Реєстрація"
+  },
+  "login": {
+    "title": "Easy Words",
+    "subtitle": "Вчіть мови легко",
+    "text": "З Easy Words ви можете вивчати нові слова різними мовами. Просто зареєструйтеся і почніть навчання",
+    "email": "Електронна пошта",
+    "password": "Пароль",
+    "forgot": "Забули пароль",
+    "remember": "Запам’ятати мене"
+  },
+  "register": {
+    "subtitle": "Реєстрація",
+    "login": "Увійти",
+    "enter": "Увійти",
+    "register": "Реєстрація"
+  },
+  "settings": {
+    "title": "Налаштування",
+    "text": "FlashCards v: ",
+    "text2": "від Sergei Petukhov ",
+    "CorrentTheme": "Поточна тема: ",
+    "toggle": "Перемкнути тему",
+    "title2": "Контакт",
+    "donate": "Підтримати",
+    "title3": "Користувач",
+    "logout": "Вийти",
+    "lang": "Мова",
+    "install": "Встановити додаток"
+  },
+  "wordList": {
+    "title": "Ваші слова",
+    "save": "Зберегти",
+    "resetCount": "Скинути лічильник"
+  },
+  "Layout": {
+    "words": "Слова",
+    "FlashCards": "Картки"
+  },
+  "dictionary": {
+    "title": "Словники",
+    "placeholder": "Назва словника",
+    "add": "Додати словник",
+    "listTitle": "Список словників",
+    "addDictionary": "Додати словник",
+    "defaultDictionary": "Основний словник",
+    "confirmDelete": "Ви впевнені, що хочете видалити словник?",
+    "delete": "Видалити",
+    "noDictionaries": "У вас немає словників"
+  }
+}

@@ -1,0 +1,33 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+  text-align: center;
+  align-items: center;
+  padding: 10px 0;
+  height: 40px;
+  background-color: var(--primary-color);
+  color: var(--text-color);
+  font-size: 16px;
+  display: flex;
+  justify-content: space-around;
+}
+.footer_link {
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    background-color: inherit;
+    top: 10px;
+    left: -40%;
+  }
+  .footer_link {
+    display: none;
+  }
+  span {
+    display: none;
+  }
+}

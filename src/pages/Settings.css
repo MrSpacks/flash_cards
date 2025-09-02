@@ -1,0 +1,18 @@
+.settings {
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  text-align: center;
+}
+.userLogOut {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@media screen and (max-width: 768px) {
+  .settings {
+    flex-direction: column;
+    overflow-x: scroll;
+  }
+}

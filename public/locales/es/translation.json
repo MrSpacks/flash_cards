@@ -1,0 +1,71 @@
+{
+  "header": {
+    "addWord": "Agregar nueva palabra",
+    "word": "Palabra"
+  },
+  "title": {
+    "card": "No tienes palabras para aprender",
+    "card2": "Aprender palabras"
+  },
+  "label": {
+    "word": "Palabra",
+    "Translation": "Traducción"
+  },
+  "button": {
+    "add": "Agregar palabra",
+    "cancel": "Cancelar",
+    "know": "Lo sé",
+    "dontKnow": "No lo sé",
+    "remember": "Recordar",
+    "enter": "Iniciar sesión",
+    "register": "Registrarse"
+  },
+  "login": {
+    "title": "Easy Words",
+    "subtitle": "Aprende idiomas fácilmente",
+    "text": "Con Easy Words puedes aprender nuevas palabras en diferentes idiomas. Solo regístrate y comienza a aprender",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgot": "Olvidé mi contraseña",
+    "remember": "Recuérdame"
+  },
+  "register": {
+    "subtitle": "Registro",
+    "login": "Iniciar sesión",
+    "enter": "Iniciar sesión",
+    "register": "Registro"
+  },
+  "settings": {
+    "title": "Configuración",
+    "text": "FlashCards v: ",
+    "text2": "por Sergei Petukhov ",
+    "CorrentTheme": "Tema actual: ",
+    "toggle": "Cambiar tema",
+    "title2": "Contacto",
+    "donate": "Donar",
+    "title3": "Usuario",
+    "logout": "Cerrar sesión",
+    "lang": "Idioma",
+    "install": "Instalar aplicación"
+  },
+  "wordList": {
+    "title": "Tus palabras",
+    "save": "Guardar",
+    "resetCount": "Restablecer contador"
+  },
+  "Layout": {
+    "words": "Palabras",
+    "FlashCards": "Tarjetas"
+  },
+  "dictionary": {
+    "title": "Diccionario",
+    "placeholder": "Nombre del diccionario",
+    "add": "Agregar diccionario",
+    "listTitle": "Lista de diccionarios",
+    "addDictionary": "Agregar diccionario",
+    "defaultDictionary": "Diccionario predeterminado",
+    "confirmDelete": "¿Estás seguro de que deseas eliminar este diccionario?",
+    "delete": "Eliminar",
+    "noDictionaries": "No hay diccionarios"
+  }
+}

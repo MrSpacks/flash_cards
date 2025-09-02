@@ -1,0 +1,71 @@
+{
+  "header": {
+    "addWord": "Aggiungi nuova parola",
+    "word": "Parola"
+  },
+  "title": {
+    "card": "Non hai parole da imparare",
+    "card2": "Impara le parole"
+  },
+  "label": {
+    "word": "Parola",
+    "Translation": "Traduzione"
+  },
+  "button": {
+    "add": "Aggiungi parola",
+    "cancel": "Annulla",
+    "know": "Lo so",
+    "dontKnow": "Non lo so",
+    "remember": "Ricorda",
+    "enter": "Accedi",
+    "register": "Registrati"
+  },
+  "login": {
+    "title": "Easy Words",
+    "subtitle": "Impara le lingue facilmente",
+    "text": "Con Easy Words puoi imparare nuove parole in diverse lingue. Registrati e inizia a imparare",
+    "email": "Email",
+    "password": "Password",
+    "forgot": "Password dimenticata",
+    "remember": "Ricordami"
+  },
+  "register": {
+    "subtitle": "Registrazione",
+    "login": "Accedi",
+    "enter": "Accedi",
+    "register": "Registrazione"
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "text": "FlashCards v: ",
+    "text2": "di Sergei Petukhov ",
+    "CorrentTheme": "Tema attuale: ",
+    "toggle": "Cambia tema",
+    "title2": "Contatto",
+    "donate": "Dona",
+    "title3": "Utente",
+    "logout": "Disconnetti",
+    "lang": "Lingua",
+    "install": "Installa app"
+  },
+  "wordList": {
+    "title": "Le tue parole",
+    "save": "Salva",
+    "resetCount": "Resetta conteggio"
+  },
+  "Layout": {
+    "words": "Parole",
+    "FlashCards": "FlashCards"
+  },
+  "dictionary": {
+    "title": "Dizionario",
+    "placeholder": "Nome del dizionario",
+    "add": "Aggiungi dizionario",
+    "listTitle": "Elenco dei dizionari",
+    "addDictionary": "Aggiungi dizionario",
+    "defaultDictionary": "Dizionario predefinito",
+    "confirmDelete": "Sei sicuro di voler eliminare il dizionario?",
+    "delete": "Elimina dizionario",
+    "noDictionaries": "Non ci sono dizionari"
+  }
+}

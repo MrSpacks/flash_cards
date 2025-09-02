@@ -1,0 +1,73 @@
+{
+  "header": {
+    "addWord": "Add new word",
+    "word": "Word"
+  },
+  "title": {
+    "card": "You dont have words to learn",
+    "card2": "Learn Words"
+  },
+
+  "label": {
+    "word": "Word",
+    "Translation": "Translation"
+  },
+
+  "button": {
+    "add": "Add word",
+    "cancel": "Cancel",
+    "know": "I know",
+    "dontKnow": "I don't know",
+    "remember": "Remember",
+    "enter": "Enter",
+    "register": "Register"
+  },
+  "login": {
+    "title": "Easy Words",
+    "subtitle": "Learn languages easily",
+    "text": "With Easy Words you can learn new words in different languages. Just register and start learning",
+    "email": "Email",
+    "password": "Password",
+    "forgot": "Forgot password",
+    "remember": "Remember me"
+  },
+  "register": {
+    "subtitle": "Registeration",
+    "login": "Login",
+    "enter": "Enter",
+    "register": "Registeraton"
+  },
+  "settings": {
+    "title": "Settings",
+    "text": "FlashCards v: ",
+    "text2": "by Sergei Petukhov ",
+    "CorrentTheme": "Current theme: ",
+    "toggle": "Toggle theme",
+    "title2": "Contact",
+    "donate": "Donate",
+    "title3": "User",
+    "logout": "Logout",
+    "lang": "Language",
+    "install": "Install app"
+  },
+  "wordList": {
+    "title": "Your words",
+    "save": "Save",
+    "resetCount": "Reset count"
+  },
+  "Layout": {
+    "words": "Words",
+    "FlashCards": "FlashCards"
+  },
+  "dictionary": {
+    "title": "Dictionary",
+    "placeholder": "New dictionary",
+    "add": "Add dictionary",
+    "listTitle": "Your dictionary",
+    "addDictionary": "Add dictionary",
+    "defaultDictionary": "Default dictionary",
+    "confirmDelete": "Are you sure you want to delete this dictionary?",
+    "delete": "Delete",
+    "noDictionaries": "You don't have dictionaries"
+  }
+}

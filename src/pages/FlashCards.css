@@ -1,0 +1,44 @@
+.flashCards {
+  min-width: 300px;
+  min-height: 200px;
+  width: 100%;
+}
+
+.card_title {
+  text-align: center;
+  font-size: 20px;
+}
+
+.dictionary_select {
+  width: 100%;
+  max-width: 500px;
+}
+
+.noWords {
+  text-align: center;
+  margin-top: 20px;
+}
+.dictionary_select {
+  z-index: 1;
+  position: relative;
+  top: -20px;
+  margin: 0 auto;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  max-width: 500px;
+}
+.card_title {
+  display: none;
+}
+@media screen and (max-width: 768px) {
+  .card_title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -30px;
+  }
+  .dictionary_select {
+    top: 0;
+  }
+}

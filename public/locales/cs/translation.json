@@ -1,0 +1,71 @@
+{
+  "header": {
+    "addWord": "Přidat nové slovo",
+    "word": "Slovo"
+  },
+  "title": {
+    "card": "Nemáte žádná slova k učení",
+    "card2": "Učit se slova"
+  },
+  "label": {
+    "word": "Slovo",
+    "Translation": "Překlad"
+  },
+  "button": {
+    "add": "Přidat slovo",
+    "cancel": "Zrušit",
+    "know": "Znám",
+    "dontKnow": "Neznám",
+    "remember": "Zapamatoval",
+    "enter": "Přihlásit se",
+    "register": "Registrace"
+  },
+  "login": {
+    "title": "Easy Words",
+    "subtitle": "Učte se jazyky snadno",
+    "text": "S Easy Words se můžete učit nová slova v různých jazycích. Stačí se zaregistrovat a začít se učit",
+    "email": "E-mail",
+    "password": "Heslo",
+    "forgot": "Zapomenuté heslo",
+    "remember": "Zapamatovat si mě"
+  },
+  "register": {
+    "subtitle": "Registrace",
+    "login": "Přihlásit se",
+    "enter": "Přihlásit se",
+    "register": "Registrace"
+  },
+  "settings": {
+    "title": "Nastavení",
+    "text": "FlashCards v: ",
+    "text2": "od Sergei Petukhov ",
+    "CorrentTheme": "Aktuální téma: ",
+    "toggle": "Přepnout téma",
+    "title2": "Kontakt",
+    "donate": "Podpořit",
+    "title3": "Uživatel",
+    "logout": "Odhlásit se",
+    "lang": "Jazyk",
+    "install": "Instalovat aplikaci"
+  },
+  "wordList": {
+    "title": "Vaše slova",
+    "save": "Uložit",
+    "resetCount": "Resetovat počet"
+  },
+  "Layout": {
+    "words": "Slova",
+    "FlashCards": "Kartičky"
+  },
+  "dictionary": {
+    "title": "Slovnik",
+    "placeholder": "Novy Slovnik",
+    "add": "Přidat slovnik",
+    "listTitle": "Seznam slovniku",
+    "addDictionary": "Slovniky",
+    "defaultDictionary": "Výchozí slovnik",
+    "confirmDelete": "Opravdu chcete smazat slovnik?",
+    "delete": "Smazat",
+    "noDictionaries": "Nemáte žádné slovníky"
+  }
+}
