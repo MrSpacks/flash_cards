@@ -18,7 +18,7 @@ import {
 } from "../firebaseWords";
 import { auth } from "../auth";
 import { useTranslation } from "react-i18next";
-import "./AddDictionary.css";
+import "./addDictionary.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faBook,

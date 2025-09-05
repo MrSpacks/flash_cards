@@ -11,7 +11,7 @@ import { useState } from "react";
 import { registerUser } from "../auth";
 import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
-import "./login.css";
+import "./Login.css";
 import { useTranslation } from "react-i18next";
 import LangToggle from "../components/LangToggle";
 const Register = () => {
